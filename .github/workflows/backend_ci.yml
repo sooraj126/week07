@@ -144,3 +144,6 @@ jobs:
     - name: Logout from Azure
       run: az logout
       if: always()
+
+
+#ADDING THE LINE FOR TRIGGERING AS PART OF WEEK07
